@@ -44,4 +44,92 @@ The primary goal of this project is to:
   - High-risk → Immediate manual review  
   - Medium-risk → Rule-based secondary check  
   - Low-risk → Automated approval  
-- Highlighted interpretability-driven insights for business and compliance teams
+- Highlighted interpretability-driven insights for business and compliance teams.
+
+#### 6. **Model Validation & Insights**
+- Validated results using cross-validation and stratified sampling to ensure generalization.  
+- Analyzed **false positive and false negative trade-offs** to balance operational cost and fraud loss.  
+- Recommended data-driven policy changes to reduce long-term fraud exposure.
+
+---
+
+### 🧠 Technologies Used
+| Category | Tools & Libraries |
+|-----------|------------------|
+| Programming | Python (v3.10+) |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Machine Learning | LightGBM, Scikit-learn |
+| Model Explainability | SHAP |
+| Notebook Environment | Jupyter Notebook (GPU compatible) |
+
+---
+
+### 📈 Key Results
+- Achieved **>95% Recall** for fraud detection without major loss in Precision.  
+- Model training accelerated by **4x** using GPU-based LightGBM.  
+- Extracted actionable business insights via SHAP-driven interpretation.
+
+---
+
+### 🧩 Repository Structure
+```
+
+📁 Fraud-Risk-Prediction-and-Prevention-using-LightGBM
+├── 📂 data/                # Sample dataset / input files
+├── 📓 Fraud_Detection_Jupyter_Notebook_using_LightGBM(GPU)_.ipynb
+├── 📄 requirements.txt     # Dependencies
+├── 📄 README.md            # Project documentation
+└── 📄 LICENSE
+
+````
+
+---
+
+### 🚀 How to Run the Project
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Haleeq75/Fraud-Risk-Prediction-and-Prevention-using-LightGBM-From-Model-to-Actionable-Strategy.git
+   cd Fraud-Risk-Prediction-and-Prevention-using-LightGBM-From-Model-to-Actionable-Strategy
+````
+
+2. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the notebook
+
+   ```bash
+   jupyter notebook Fraud_Detection_Jupyter_Notebook_using_LightGBM(GPU)_.ipynb
+   ```
+
+---
+
+### 📊 Future Enhancements
+
+* Integration with **real-time fraud detection APIs**.
+* Deployment of model as a **Flask / FastAPI** microservice.
+* Implementation of **automated retraining pipeline** for evolving fraud patterns.
+* Dashboard visualization using **Streamlit / Plotly Dash**.
+
+---
+
+### 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### 👨‍💻 Author
+
+**Abdul Haleeq**
+Clinical Research | AI | Data Science | Bioinformatics | Machine Learning 
+🔗 [GitHub](https://github.com/Haleeq75) | [LinkedIn](https://www.linkedin.com/in/abdul-haleeq)
+
+---
+
+⭐ **If you found this project insightful, please star the repository and share feedback!**
+
+```
