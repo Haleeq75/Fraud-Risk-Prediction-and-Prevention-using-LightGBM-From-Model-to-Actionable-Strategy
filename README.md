@@ -1,11 +1,11 @@
 # Fraud-Risk-Prediction-and-Prevention-using-LightGBM-From-Model-to-Actionable-Strategy
 
-### 📘 Overview
+### Overview
 This project demonstrates a complete end-to-end **Fraud Detection and Prevention** pipeline — from data preprocessing and feature engineering to model building and generating actionable insights. Using the **LightGBM (Light Gradient Boosting Machine)** framework, the project focuses on achieving high precision in detecting fraudulent transactions while minimizing false positives.
 
 ---
 
-### 🎯 Objective
+### Objective
 The primary goal of this project is to:
 - Build a scalable and efficient **machine learning model** to predict fraudulent activities.
 - Optimize the **precision-recall trade-off** for real-world fraud detection.
@@ -13,7 +13,7 @@ The primary goal of this project is to:
 
 ---
 
-### ⚙️ Project Workflow
+### Project Workflow
 
 #### 1. **Data Collection & Exploration**
 - Imported and cleaned transaction datasets containing both legitimate and fraudulent entries.  
@@ -53,7 +53,7 @@ The primary goal of this project is to:
 
 ---
 
-### 🧠 Technologies Used
+### Technologies Used
 | Category | Tools & Libraries |
 |-----------|------------------|
 | Programming | Python (v3.10+) |
@@ -65,14 +65,14 @@ The primary goal of this project is to:
 
 ---
 
-### 📈 Key Results
+### Key Results
 - Achieved **>95% Recall** for fraud detection without major loss in Precision.  
 - Model training accelerated by **4x** using GPU-based LightGBM.  
 - Extracted actionable business insights via SHAP-driven interpretation.
 
 ---
 
-### 🧩 Repository Structure
+### Repository Structure
 ```
 
 📁 Fraud-Risk-Prediction-and-Prevention-using-LightGBM
@@ -86,12 +86,12 @@ The primary goal of this project is to:
 
 ---
 
-### 🚀 How to Run the Project
+### How to Run the Project
 1. Clone the repository  
    ```bash
    git clone https://github.com/Haleeq75/Fraud-Risk-Prediction-and-Prevention-using-LightGBM-From-Model-to-Actionable-Strategy.git
    cd Fraud-Risk-Prediction-and-Prevention-using-LightGBM-From-Model-to-Actionable-Strategy
-````
+   ```
 
 2. Install dependencies
 
@@ -107,7 +107,7 @@ The primary goal of this project is to:
 
 ---
 
-### 📊 Future Enhancements
+### Future Enhancements
 
 * Integration with **real-time fraud detection APIs**.
 * Deployment of model as a **Flask / FastAPI** microservice.
@@ -116,13 +116,13 @@ The primary goal of this project is to:
 
 ---
 
-### 🧾 License
+### License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### 👨‍💻 Author
+### Author
 
 **Abdul Haleeq**
 Clinical Research | AI | Data Science | Bioinformatics | Machine Learning 
@@ -130,6 +130,6 @@ Clinical Research | AI | Data Science | Bioinformatics | Machine Learning
 
 ---
 
-⭐ **If you found this project insightful, please star the repository and share feedback!**
+ **If you found this project insightful, please star the repository and share feedback!**
 
 ```
